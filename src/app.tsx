@@ -1,13 +1,11 @@
-import { defineComponent, reactive } from 'vue'
+import { defineComponent } from 'vue'
 
 export default defineComponent({
+  name: 'App',
   setup (p, ctx) {
-    const state = reactive({
-    })
-
     return () => {
       return (
-        <div id="app">
+        <div id={'app'}>
           <router-view/>
         </div>
       )
