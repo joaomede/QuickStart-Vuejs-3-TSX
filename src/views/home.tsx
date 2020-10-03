@@ -2,7 +2,7 @@ import { defineComponent } from 'vue'
 
 export default defineComponent({
   name: 'Home',
-  setup (p, ctx) {
+  setup () {
     return () => {
       return (
         <div>
