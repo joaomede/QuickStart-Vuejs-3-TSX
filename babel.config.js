@@ -1,3 +1,3 @@
 module.exports = {
-  plugins: ['@ant-design-vue/babel-plugin-jsx']
+  plugins: ['@vue/babel-plugin-jsx']
 }
