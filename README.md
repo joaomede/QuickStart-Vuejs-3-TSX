@@ -7,7 +7,7 @@
 [X] - Vue 3  
 [X] - Vuex  
 [X] - Vue-Router  
-[X] - Vuetify (3.0.0 - alpha)
+[X] - Vuetify (3.0.0 - alpha)  
 [X] - JSX (@vue/babel-plugin-jsx - Official Plugin) (.tsx)  
 [X] - PWA  
 [X] - Unit Tests  
